@@ -1,0 +1,4 @@
+26/06/2026
+Today we learned about Data Structures in Python. The mentor introduced the four main data structures: List, Tuple, Set, and Dictionary. We learned the purpose of each data structure, their syntax, and the differences between them.
+The mentor explained how Lists are ordered and mutable, Tuples are ordered and immutable, Sets store unique elements without duplicates, and Dictionaries store data in key-value pairs. We also learned about the common operations and built-in methods used with each data structure.
+After understanding the concepts, we practiced several Python programs based on Lists, Tuples, Sets, and Dictionaries. These exercises helped us understand how to create, access, modify, and manipulate different types of data structures. The hands-on practice improved our understanding of data storage and management in Python and strengthened our programming skills.
