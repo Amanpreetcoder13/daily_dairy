@@ -1,0 +1,4 @@
+30/06/2026
+Today we learned the fundamentals of Object-Oriented Programming (OOP) in Python. The mentor introduced the concept of classes and objects and explained how OOP helps organize programs by combining data and functions into a single unit called a class. We learned how to create a class, define objects, and access their attributes and methods.
+The mentor also explained the use of the __init__() constructor, the self keyword, instance variables, and methods with simple examples. We understood how objects are created from a class and how each object can have its own data while sharing the same methods.
+After the explanation, we practiced several Python programs based on classes and objects. These exercises helped us understand the practical implementation of OOP concepts and improved our understanding of writing structured and reusable Python programs.
