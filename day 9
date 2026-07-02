@@ -1,0 +1,4 @@
+02/07/2026
+Today, the mentor gave us programming questions based on Classes and Inheritance. We practiced creating classes, objects, methods, parent classes, and child classes. These questions helped us understand how inheritance is used to reuse the properties and functions of one class in another class.
+After that, the mentor explained File Handling in Python. We learned how files are created, opened, read, written, and closed using Python programs. The mentor also explained the different file modes such as read, write, and append mode.
+In the last part of the session, we learned about Exception Handling. The mentor explained how errors can occur while running a program and how we can handle them using try, except, and finally blocks. This session improved our understanding of OOP concepts, file handling, and error handling in Python.
