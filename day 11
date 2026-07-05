@@ -1,0 +1,4 @@
+04/07/2026
+Today, we learned about the Pandas library in Python. The mentor explained that Pandas is used for working with structured data, such as tables, datasets, and files.
+We learned how to import the Pandas library and read files using Pandas. The mentor explained how data from files can be stored in rows and columns using DataFrames. We also practiced accessing and analyzing data from uploaded files.
+The mentor gave us several questions based on Pandas and file handling. We solved questions related to reading files, viewing data, and performing basic operations on the dataset. This session helped us understand how Pandas is useful for handling and analyzing data in Python.
