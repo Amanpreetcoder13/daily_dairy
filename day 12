@@ -1,0 +1,4 @@
+06/07/2026
+Today, the mentor gave us practical tasks based on the Pandas library. We worked with dataset files and practiced reading files using Pandas. We learned how to load data into a DataFrame and view the available rows and columns.
+We also performed tasks related to missing values. We practiced identifying missing values in a dataset and handling them by filling or removing them where required. This helped us understand how data can be cleaned before analysis.
+In addition, we used the groupby() function to group data based on specific columns and perform operations on grouped data. We completed different Pandas tasks in class, which improved our understanding of file reading, data cleaning, and basic data analysis using Python.
