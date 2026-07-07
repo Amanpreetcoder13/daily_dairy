@@ -1,0 +1,4 @@
+07/07/2026
+Today, we learned about the Matplotlib library in Python. The mentor explained that Matplotlib is used for creating graphs and visualizing data in an easy-to-understand form.
+We learned how to import the matplotlib.pyplot module and create different types of charts, such as line charts, bar charts, pie charts, and histograms. The mentor also explained how to add titles, labels, legends, and grid lines to make graphs clear and informative.
+After understanding the concepts, we practiced several questions based on Matplotlib. We created graphs using different datasets and applied various chart properties. These practical questions helped us improve our understanding of data visualization in Python.
