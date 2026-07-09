@@ -1,0 +1,5 @@
+09/07/2026
+Today, we learned the basics of Streamlit, a Python library used to create simple and interactive web applications. The mentor explained how Streamlit helps us take input from users and display output on a web page without writing complex web-development code.
+We learned about different Streamlit functions such as "st.write()", "st.title()", "st.text_input()", "st.number_input()", "st.button()", "st.warning()", and other output functions. The mentor also explained how these functions can be used to display messages, warnings, user input, and results in an interactive way.
+The mentor gave us two practical tasks. In the first task, we created a BMI Calculator where the user enters their height and weight, and the application calculates and displays the BMI result. In the second task, we took data input from the user and used the Matplotlib library to plot a graph based on that data.
+These tasks helped us understand how Streamlit can be combined with Python libraries such as Matplotlib to create interactive applications and display data visually.
