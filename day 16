@@ -1,0 +1,6 @@
+Day 15 – Exploratory Data Analysis (EDA)
+10/07/2026
+Today, we learned about Exploratory Data Analysis (EDA) in Python. The mentor explained that before training a Machine Learning model, it is important to understand and clean the dataset properly. EDA helps us examine the data, identify errors, and prepare it for further analysis and model training.
+We learned how to check the dataset for duplicate values and remove them to avoid repeated data. We also learned how to identify null or missing values and handle them by removing or filling them according to the requirement of the dataset. The mentor explained that clean data is important because incorrect or incomplete data can affect the performance of a Machine Learning model.
+We also discussed data balancing, where the classes in a dataset should be balanced before training the model. This helps prevent the model from giving biased results toward one category. During the class, we practiced basic EDA steps such as viewing the dataset, checking its shape and information, finding duplicates, handling missing values, and understanding the distribution of data.
+This session helped us understand the importance of data cleaning and preparation before applying Machine Learning algorithms.
