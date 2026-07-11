@@ -1,0 +1,7 @@
+Day 17 – EDA Practice
+
+11/07/2026
+
+Today, we practiced Exploratory Data Analysis (EDA) on different datasets. The mentor provided us with datasets and assigned tasks to perform EDA using Python libraries such as Pandas, NumPy, and Matplotlib.
+We analyzed the datasets by checking their structure, identifying and removing duplicate records, handling missing values, examining data types, and generating summary statistics. We also performed basic data visualization to better understand the distribution of data and identify patterns or outliers.
+Through these practical tasks, we gained hands-on experience in data preprocessing and analysis. This practice session strengthened our understanding of EDA and prepared us for using clean and well-structured data in Machine Learning projects.
