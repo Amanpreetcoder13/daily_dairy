@@ -1,0 +1,12 @@
+13-07-2026 (Day 18)
+
+Today, we learned about **Data Analysis** and **Data Cleaning**, which are important steps in preparing data for Machine Learning. Our mentor explained how to inspect a dataset, identify data quality issues, and clean the data to make it suitable for analysis and model building.
+During the practical session, we performed various data analysis and cleaning tasks on a dataset. The activities included:
+* Exploring the dataset and understanding its structure.
+* Checking the shape, data types, and summary statistics of the dataset.
+* Identifying missing values and handling them appropriately.
+* Detecting duplicate records and removing them if required.
+* Filtering and sorting data based on different conditions.
+* Identifying and handling outliers.
+* Preparing the dataset for further analysis and machine learning.
+These practical exercises helped us understand the importance of clean and well-organized data. By the end of the session, we were able to analyze datasets more effectively and apply different data cleaning techniques. Our mentor also assigned us practice questions to strengthen our understanding of data analysis and preprocessing.
