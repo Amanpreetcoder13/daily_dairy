@@ -1,0 +1,7 @@
+Day 20 – Introduction to Machine Learning and Linear Regression
+15/07/2026
+
+Today, we were introduced to the basics of Machine Learning (ML). The mentor explained what Machine Learning is and discussed its main types, including Supervised Learning and Unsupervised Learning. We also learned about the different categories of supervised learning, such as Classification and Regression, along with their real-world applications.
+After the theoretical concepts, the mentor introduced Linear Regression and explained how it is used to predict continuous values based on input data. We learned the basic workflow of building a Machine Learning model using Linear Regression.
+The mentor demonstrated how to take a dataset and perform Exploratory Data Analysis (EDA) to clean and prepare the data by handling missing values, removing duplicates, and understanding the dataset. After preprocessing, we learned how to split the dataset into training and testing sets, train a Linear Regression model, and evaluate its performance.
+This session gave us a clear understanding of the Machine Learning workflow, from data preprocessing to training a predictive model using Linear Regression.
