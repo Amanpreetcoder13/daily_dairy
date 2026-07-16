@@ -1,0 +1,8 @@
+Day 21 – Logistic Regression
+
+16/07/2026
+
+Today, we learned about Logistic Regression, a supervised Machine Learning algorithm used for classification problems. The mentor explained how Logistic Regression is used to predict categorical outcomes, such as Yes/No, True/False, or 0/1, based on the given input features.
+We worked with a dataset and followed the basic Machine Learning workflow. First, we performed Exploratory Data Analysis (EDA) to understand and prepare the dataset. This included checking the dataset structure, handling missing values, removing duplicate records, verifying data types, and performing other preprocessing steps to ensure the data was clean and suitable for model training.
+After preprocessing, we selected the input features and target variable and trained a Logistic Regression model using the cleaned dataset. Once the model was trained, we evaluated its performance by calculating the accuracy score. The mentor explained how the accuracy score helps us understand how well the model has learned from the data.
+This practical session helped us understand the process of building a Logistic Regression model, including data preprocessing, model training, and evaluating its accuracy.
