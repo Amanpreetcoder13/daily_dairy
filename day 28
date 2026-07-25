@@ -1,0 +1,4 @@
+24-07-2026 (Day-28)
+Topics Covered
+  
+Today, we continued working on the Trip Budget Reality Checker project. We integrated the budget prediction model with the Streamlit dashboard and improved the user interface. We implemented the category-wise cost breakdown, including hotel, transport, and shopping expenses. We also enhanced the visualization using interactive pie charts and bar charts, fixed minor issues, and tested the overall functionality to ensure accurate budget estimation and a smooth user experience
